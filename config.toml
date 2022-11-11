@@ -1,4 +1,4 @@
-baseURL = "https://jaritaes99.github.io/website/"
+baseURL = "https://jaritaes99.github.io/"
 title = "Jose Arita-Escalante"
 theme = "hugo-coder"
 languageCode = "en"
