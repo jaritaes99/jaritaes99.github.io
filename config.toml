@@ -129,6 +129,11 @@ weight = 2
 url = "research/"
 
 [[languages.en.menu.main]]
+name = "Resumé"
+weight = 3   
+url = "resume/"
+
+[[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
 url = "contact/"
@@ -152,6 +157,11 @@ url = "about/"
 name = "Investigación"
 weight = 2
 url = "projects/"
+
+[[languages.es.menu.main]]
+name = "Resumé"  
+weight = 3
+url = "resume/"
 
 [[languages.es.menu.main]]
 name = "Contacto"
