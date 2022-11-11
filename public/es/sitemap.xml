@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/es/es/about/</loc>
+    <loc>https://jaritaes99.github.io/es/es/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/es/es/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://www.example.com/es/es/"
-                />
-  </url><url>
-    <loc>http://www.example.com/es/</loc>
+    <loc>https://jaritaes99.github.io/es/es/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://jaritaes99.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/"
+                href="https://jaritaes99.github.io/es/es/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/authors/</loc>
+    <loc>https://jaritaes99.github.io/es/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://jaritaes99.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/authors/"
+                href="https://jaritaes99.github.io/es/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/categories/</loc>
+    <loc>https://jaritaes99.github.io/es/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://jaritaes99.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/categories/"
+                href="https://jaritaes99.github.io/es/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/es/contact/</loc>
-  </url><url>
-    <loc>http://www.example.com/es/series/</loc>
+    <loc>https://jaritaes99.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://jaritaes99.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/series/"
+                href="https://jaritaes99.github.io/es/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/tags/</loc>
+    <loc>https://jaritaes99.github.io/es/es/contact/</loc>
+  </url><url>
+    <loc>https://jaritaes99.github.io/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://jaritaes99.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/tags/"
+                href="https://jaritaes99.github.io/es/series/"
+                />
+  </url><url>
+    <loc>https://jaritaes99.github.io/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jaritaes99.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jaritaes99.github.io/es/tags/"
                 />
   </url>
 </urlset>

@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://jaritaes99.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://jaritaes99.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/authors/"
+                href="https://jaritaes99.github.io/es/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://jaritaes99.github.io/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://jaritaes99.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/categories/"
+                href="https://jaritaes99.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://jaritaes99.github.io/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>https://jaritaes99.github.io/contact/</loc>
   </url><url>
-    <loc>http://www.example.com/es/</loc>
+    <loc>https://jaritaes99.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/es/"
+                href="https://jaritaes99.github.io/es/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/es/"
+                href="https://jaritaes99.github.io/es/"
                 />
   </url><url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://jaritaes99.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/"
+                href="https://jaritaes99.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://jaritaes99.github.io/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/projects/</loc>
+    <loc>https://jaritaes99.github.io/es/projects/</loc>
   </url><url>
-    <loc>http://www.example.com/research/</loc>
+    <loc>https://jaritaes99.github.io/research/</loc>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://jaritaes99.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/series/"
+                href="https://jaritaes99.github.io/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://jaritaes99.github.io/series/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://jaritaes99.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/tags/"
+                href="https://jaritaes99.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://jaritaes99.github.io/tags/"
                 />
   </url>
 </urlset>
