@@ -151,7 +151,7 @@ keywords = "blog,desarrollador,personal"
 [[languages.es.menu.main]]
 name = "Sobre Mí"
 weight = 1
-url = "about/"
+url = "about.es/"
 
 [[languages.es.menu.main]]
 name = "Investigación"
