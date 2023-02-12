@@ -8,6 +8,45 @@
     <loc>https://jaritaes99.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jaritaes99.github.io/es/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jaritaes99.github.io/es/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jaritaes99.github.io/es/"
+                />
+  </url><url>
+    <loc>https://jaritaes99.github.io/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jaritaes99.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jaritaes99.github.io/"
+                />
+  </url><url>
+    <loc>https://jaritaes99.github.io/es/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jaritaes99.github.io/es/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jaritaes99.github.io/es/about/"
+                />
+  </url><url>
     <loc>https://jaritaes99.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,28 +73,16 @@
   </url><url>
     <loc>https://jaritaes99.github.io/contact/</loc>
   </url><url>
-    <loc>https://jaritaes99.github.io/es/</loc>
+    <loc>https://jaritaes99.github.io/es/contacto/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jaritaes99.github.io/es/es/"
+                href="https://jaritaes99.github.io/es/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jaritaes99.github.io/es/"
-                />
-  </url><url>
-    <loc>https://jaritaes99.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jaritaes99.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jaritaes99.github.io/"
+                href="https://jaritaes99.github.io/es/contacto/"
                 />
   </url><url>
     <loc>https://jaritaes99.github.io/es/projects/</loc>

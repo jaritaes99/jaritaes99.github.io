@@ -5,7 +5,8 @@
     <link>https://jaritaes99.github.io/</link>
     <description>Recent content on Jose Arita-Escalante</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://jaritaes99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jaritaes99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resumé</title>
       <link>https://jaritaes99.github.io/resume/</link>
@@ -16,13 +17,23 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://jaritaes99.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jaritaes99.github.io/about/</guid>
-      <description>Hello, I am Jose Arita-Escalante, an aspiring theorerical physicist with an interest in General Relativity. I am currently a Post-Bacc Research Assistant for Dr. Tyler Parsotan at NASA Goddard Space Flight Center (GSFC). We are currently working on optimizing the resolution for the Monte Carlo Radiation Transfer (MCRaT) radiative transfer predictions.
-I am a first-generation Honduran-American, and I used to live in Honduras until I was 17 years old. I moved to Virginia, and did my undegraduate studies in Virginia Commonwealth University.</description>
+      <description>Hello, I am Jose Arita-Escalante, an aspiring theorerical physicist with an interest in General Relativity. I am currently a Post-Bacc Research Assistant for Dr. Tyler Parsotan at NASA Goddard Space Flight Center (GSFC). We are currently working on quantifying the effect that the Hydrodynamic resolution of GRB simulations have on the Monte Carlo Radiation Transfer (MCRaT) post-processing radiative transfer calculations.
+I am a first-generation Honduran-American, and I used to live in Honduras until I was 17 years old.</description>
+    </item>
+    
+    <item>
+      <title>Sobre mí</title>
+      <link>https://jaritaes99.github.io/es/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaritaes99.github.io/es/about/</guid>
+      <description>Hola! Soy José Arita Escalante, un futuro físico teórico con interés en la Teoría de Relatividad General. Actualmente, soy asistente de investigador para el Dr. Tyler Parsotan en NASA Goddard Space Flight Center (GSFC). Estamos trabajando en cuantificar el efecto de resoluciones de simulaciones hidrodinámicas de brotes de rayos gama en los cálculos de transferencia radiativa del código de Monte Carlo Radiation Transfer (MCRaT).
+Soy Americano de nacimiento, pero me crié y viví en Honduras hasta los 17 años de edad.</description>
     </item>
     
     <item>
@@ -35,6 +46,18 @@ I am a first-generation Honduran-American, and I used to live in Honduras until 
 My email is escalantejra@vcu.edu .
 Here is my LinkedIn .
 Here is my GitHub .</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://jaritaes99.github.io/es/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaritaes99.github.io/es/contacto/</guid>
+      <description>¡No duden en contactarme!
+Mi correo es escalantejra@vcu.edu .
+Este es mi LinkedIn .
+Este es mi GitHub .</description>
     </item>
     
     <item>

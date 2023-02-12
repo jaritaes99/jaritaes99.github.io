@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jaritaes99.github.io/es/es/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jaritaes99.github.io/es/es/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -29,6 +26,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jaritaes99.github.io/es/"
+                />
+  </url><url>
+    <loc>https://jaritaes99.github.io/es/es/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jaritaes99.github.io/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jaritaes99.github.io/es/es/about/"
                 />
   </url><url>
     <loc>https://jaritaes99.github.io/es/authors/</loc>
@@ -56,6 +66,16 @@
                 />
   </url><url>
     <loc>https://jaritaes99.github.io/es/es/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jaritaes99.github.io/es/contacto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jaritaes99.github.io/es/es/contact/"
+                />
   </url><url>
     <loc>https://jaritaes99.github.io/es/series/</loc>
     <xhtml:link
