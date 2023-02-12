@@ -2,7 +2,7 @@ baseURL = "https://jaritaes99.github.io/"
 title = "Jose Arita-Escalante"
 theme = "hugo-coder"
 languageCode = "en"
-defaultContentLanguage = "en"
+#defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
@@ -119,7 +119,7 @@ url = "https://www.linkedin.com/in/jose-arita-escalante-17526616b"
 languageName = ":us:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "About Me"
 weight = 1
 url = "about/"
 
@@ -149,14 +149,14 @@ description = "Sitio personal de José Arita Escalante"
 keywords = "blog,desarrollador,personal"
 
 [[languages.es.menu.main]]
-name = "Sobre"
+name = "Sobre Mí"
 weight = 1
 url = "about/"
 
 [[languages.es.menu.main]]
 name = "Investigación"
 weight = 2
-url = "projects/"
+url = "research/"
 
 [[languages.es.menu.main]]
 name = "Resumé"  
