@@ -1,6 +1,6 @@
 +++
 title = "Sobre mí"
-slug="sobre"
+slug="informacion"
 +++
 
 ¡Hola! Soy José Arita Escalante, un futuro físico teórico con interés en la Teoría de Relatividad General. Actualmente, soy asistente de investigador para el [Dr. Tyler Parsotan](https://science.gsfc.nasa.gov/sed/bio/tmpataki) en NASA Goddard 
