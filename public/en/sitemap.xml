@@ -2,42 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jaritaes99.github.io/en/</loc>
-    <lastmod>2022-11-11T12:06:19-06:00</lastmod>
-  </url><url>
-    <loc>https://jaritaes99.github.io/</loc>
-    <lastmod>2022-11-11T12:06:19-06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jaritaes99.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jaritaes99.github.io/"
-                />
-  </url><url>
-    <loc>https://jaritaes99.github.io/en/resume/</loc>
-    <lastmod>2022-11-11T12:06:19-06:00</lastmod>
-  </url><url>
     <loc>https://jaritaes99.github.io/resume/</loc>
     <lastmod>2022-11-11T12:06:19-06:00</lastmod>
   </url><url>
     <loc>https://jaritaes99.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jaritaes99.github.io/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jaritaes99.github.io/about/"
-                />
-  </url><url>
-    <loc>https://jaritaes99.github.io/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jaritaes99.github.io/authors/</loc>
@@ -65,40 +33,18 @@
                 />
   </url><url>
     <loc>https://jaritaes99.github.io/contact/</loc>
+  </url><url>
+    <loc>https://jaritaes99.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jaritaes99.github.io/es/contacto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jaritaes99.github.io/contact/"
-                />
-  </url><url>
-    <loc>https://jaritaes99.github.io/en/contact/</loc>
-  </url><url>
-    <loc>https://jaritaes99.github.io/es/contacto/</loc>
-  </url><url>
-    <loc>https://jaritaes99.github.io/es/curriculum/</loc>
-  </url><url>
-    <loc>https://jaritaes99.github.io/es/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jaritaes99.github.io/es/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://jaritaes99.github.io/es/"
                 />
-  </url><url>
-    <loc>https://jaritaes99.github.io/es/investigacion/</loc>
-  </url><url>
-    <loc>https://jaritaes99.github.io/es/projects/</loc>
-  </url><url>
-    <loc>https://jaritaes99.github.io/en/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jaritaes99.github.io/"
+                />
   </url><url>
     <loc>https://jaritaes99.github.io/research/</loc>
   </url><url>
@@ -113,8 +59,6 @@
                 hreflang="en"
                 href="https://jaritaes99.github.io/series/"
                 />
-  </url><url>
-    <loc>https://jaritaes99.github.io/es/sobre/</loc>
   </url><url>
     <loc>https://jaritaes99.github.io/tags/</loc>
     <xhtml:link

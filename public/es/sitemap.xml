@@ -2,48 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jaritaes99.github.io/es/es/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jaritaes99.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jaritaes99.github.io/es/es/"
-                />
-  </url><url>
-    <loc>https://jaritaes99.github.io/es/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jaritaes99.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jaritaes99.github.io/es/"
-                />
-  </url><url>
-    <loc>https://jaritaes99.github.io/es/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jaritaes99.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jaritaes99.github.io/es/about/"
-                />
-  </url><url>
-    <loc>https://jaritaes99.github.io/es/es/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jaritaes99.github.io/es/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -69,15 +27,21 @@
                 />
   </url><url>
     <loc>https://jaritaes99.github.io/es/contacto/</loc>
+  </url><url>
+    <loc>https://jaritaes99.github.io/es/curriculum/</loc>
+  </url><url>
+    <loc>https://jaritaes99.github.io/es/investigacion/</loc>
+  </url><url>
+    <loc>https://jaritaes99.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jaritaes99.github.io/contact/"
+                href="https://jaritaes99.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jaritaes99.github.io/es/contacto/"
+                href="https://jaritaes99.github.io/es/"
                 />
   </url><url>
     <loc>https://jaritaes99.github.io/es/series/</loc>
@@ -91,6 +55,8 @@
                 hreflang="es"
                 href="https://jaritaes99.github.io/es/series/"
                 />
+  </url><url>
+    <loc>https://jaritaes99.github.io/es/informacion/</loc>
   </url><url>
     <loc>https://jaritaes99.github.io/es/tags/</loc>
     <xhtml:link
