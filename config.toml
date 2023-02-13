@@ -1,9 +1,8 @@
-
 baseURL = "https://jaritaes99.github.io/"
 title = "Jose Arita-Escalante"
 theme = "hugo-coder"
-#languageCode = "en"
-#defaultContentLanguage = "en"
+languageCode = "en"
+defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
@@ -118,6 +117,7 @@ url = "https://www.linkedin.com/in/jose-arita-escalante-17526616b"
 
 [languages.en]
 languageName = ":us:"
+contentDir = 'content/en'
 
 [[languages.en.menu.main]]
 name = "About Me"
@@ -136,12 +136,13 @@ url = "en/resume/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 5
+weight = 4
 url = "en/contact/"
 
 [languages.es]
 languageName = ":es:"
 title = "José Arita Escalante"
+contentDir = 'content/es'
 
 [languages.es.params]
 author = "José Arita Escalante"
@@ -152,7 +153,7 @@ keywords = "blog,desarrollador,personal"
 [[languages.es.menu.main]]
 name = "Sobre Mí"
 weight = 1
-url = "es/sobre/"
+url = "es/informacion/"
 
 [[languages.es.menu.main]]
 name = "Investigación"
@@ -166,5 +167,5 @@ url = "es/curriculum/"
 
 [[languages.es.menu.main]]
 name = "Contacto"
-weight = 5
+weight = 4
 url = "es/contacto/"

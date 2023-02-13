@@ -11,7 +11,7 @@ Space Flight Center (GSFC). We are currently working on quantifying the effect t
 radiative transfer calculations.
 
 I am a first-generation Honduran-American, and I used to live in Honduras until I was 17 years old. I moved to Virginia, and did my undegraduate studies in Virginia Commonwealth University. I got a B.S. in Physics and a 
-B.S. in Mathematical Sciences. I am taking a gap year from my studies while working with Dr. Parsotan. Next year, I will be a Physics Master's student in the [Fisk-Vanderbilt Master's-to-PhD Bridge 
+B.S. in Mathematical Sciences. I am taking a gap year from my studies while working with Dr. Parsotan. In August 2023, I will be a Physics Master's student in the [Fisk-Vanderbilt Master's-to-PhD Bridge 
 Program](https://www.fisk-vanderbilt-bridge.org). My ultimate goal is to 
 become a researcher and professor, not only to create science but also spread my accrued knowledge. 
 
