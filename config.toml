@@ -121,22 +121,22 @@ languageName = ":us:"
 [[languages.en.menu.main]]
 name = "About Me"
 weight = 1
-url = "about/"
+url = "en/about/"
 
 [[languages.en.menu.main]]
 name = "Research"
 weight = 2
-url = "research/"
+url = "en/research/"
 
 [[languages.en.menu.main]]
 name = "Resumé"
 weight = 3   
-url = "resume/"
+url = "en/resume/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
-url = "contact/"
+url = "en/contact/"
 
 [languages.es]
 languageName = ":es:"
@@ -151,19 +151,19 @@ keywords = "blog,desarrollador,personal"
 [[languages.es.menu.main]]
 name = "Sobre Mí"
 weight = 1
-url = "about/"
+url = "es/about/"
 
 [[languages.es.menu.main]]
 name = "Investigación"
 weight = 2
-url = "research/"
+url = "es/research/"
 
 [[languages.es.menu.main]]
 name = "Resumé"  
 weight = 3
-url = "resume/"
+url = "es/resume/"
 
 [[languages.es.menu.main]]
 name = "Contacto"
 weight = 5
-url = "contact/"
+url = "es/contact/"
