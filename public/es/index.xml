@@ -5,8 +5,17 @@
     <link>https://jaritaes99.github.io/es/</link>
     <description>Recent content on José Arita Escalante</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jaritaes99.github.io/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre mí</title>
+      <link>https://jaritaes99.github.io/es/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaritaes99.github.io/es/about/</guid>
+      <description>Hola! Soy José Arita Escalante, un futuro físico teórico con interés en la Teoría de Relatividad General. Actualmente, soy asistente de investigador para el Dr. Tyler Parsotan en NASA Goddard Space Flight Center (GSFC). Estamos trabajando en cuantificar el efecto de resoluciones de simulaciones hidrodinámicas de brotes de rayos gama en los cálculos de transferencia radiativa del código de Monte Carlo Radiation Transfer (MCRaT).
+Soy Americano de nacimiento, pero me crié y viví en Honduras hasta los 17 años de edad.</description>
+    </item>
+    
     <item>
       <title>Sobre mí</title>
       <link>https://jaritaes99.github.io/es/es/about/</link>
@@ -19,11 +28,14 @@ Soy Americano de nacimiento, pero me crié y viví en Honduras hasta los 17 año
     
     <item>
       <title>Contacto</title>
-      <link>https://jaritaes99.github.io/es/es/contact/</link>
+      <link>https://jaritaes99.github.io/es/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jaritaes99.github.io/es/es/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
+      <guid>https://jaritaes99.github.io/es/contacto/</guid>
+      <description>¡No duden en contactarme!
+Mi correo es escalantejra@vcu.edu .
+Este es mi LinkedIn .
+Este es mi GitHub .</description>
     </item>
     
   </channel>

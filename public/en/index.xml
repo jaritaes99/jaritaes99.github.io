@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens on Jose Arita-Escalante</title>
+    <link>https://jaritaes99.github.io/en/</link>
+    <description>Recent content in Ens on Jose Arita-Escalante</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Nov 2022 12:06:19 -0600</lastBuildDate><atom:link href="https://jaritaes99.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resumé</title>
+      <link>https://jaritaes99.github.io/en/resume/</link>
+      <pubDate>Fri, 11 Nov 2022 12:06:19 -0600</pubDate>
+      
+      <guid>https://jaritaes99.github.io/en/resume/</guid>
+      <description>Here is the latest copy of my resumé. It was last updated on November 11th, 2022.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://jaritaes99.github.io/en/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaritaes99.github.io/en/about/</guid>
+      <description>Hello, I am Jose Arita-Escalante, an aspiring theorerical physicist with an interest in General Relativity. I am currently a Post-Bacc Research Assistant for Dr. Tyler Parsotan at NASA Goddard Space Flight Center (GSFC). We are currently working on quantifying the effect that the Hydrodynamic resolution of GRB simulations have on the Monte Carlo Radiation Transfer (MCRaT) post-processing radiative transfer calculations.
+I am a first-generation Honduran-American, and I used to live in Honduras until I was 17 years old.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jaritaes99.github.io/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaritaes99.github.io/en/contact/</guid>
+      <description>Feel free to reach out!
+My email is escalantejra@vcu.edu .
+Here is my LinkedIn .
+Here is my GitHub .</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://jaritaes99.github.io/en/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaritaes99.github.io/en/research/</guid>
+      <description>Currently, I am working optimizing the resolution of hydrodynamic (HD) simulations used by the MCRaT (Monte Carlo Radiation Transfer) code to predict the electromagnetic signature of simulated Gamma Ray Bursts (GRBs). MCRaT injects photons into the HD simulation and conduces scattering of the photons to then measure the electromagnetic signature of the simulated GRB. I have been working on finding the effects that lowering both the spatial and temporal resolution of the HD simulation for the sake of reducing computational time and resource allocation has on the outcome of the simulation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,8 @@
+
 baseURL = "https://jaritaes99.github.io/"
 title = "Jose Arita-Escalante"
 theme = "hugo-coder"
-languageCode = "en"
+#languageCode = "en"
 #defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
@@ -151,19 +152,19 @@ keywords = "blog,desarrollador,personal"
 [[languages.es.menu.main]]
 name = "Sobre Mí"
 weight = 1
-url = "es/about/"
+url = "es/sobre/"
 
 [[languages.es.menu.main]]
 name = "Investigación"
 weight = 2
-url = "es/research/"
+url = "es/investigacion/"
 
 [[languages.es.menu.main]]
-name = "Resumé"  
+name = "Currículum Vitae"  
 weight = 3
-url = "es/resume/"
+url = "es/curriculum/"
 
 [[languages.es.menu.main]]
 name = "Contacto"
 weight = 5
-url = "es/contact/"
+url = "es/contacto/"

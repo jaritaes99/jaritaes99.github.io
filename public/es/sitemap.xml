@@ -28,18 +28,21 @@
                 href="https://jaritaes99.github.io/es/"
                 />
   </url><url>
-    <loc>https://jaritaes99.github.io/es/es/about/</loc>
+    <loc>https://jaritaes99.github.io/es/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jaritaes99.github.io/es/about/"
+                href="https://jaritaes99.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jaritaes99.github.io/es/es/about/"
+                href="https://jaritaes99.github.io/es/about/"
                 />
+  </url><url>
+    <loc>https://jaritaes99.github.io/es/es/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jaritaes99.github.io/es/authors/</loc>
     <xhtml:link
@@ -65,16 +68,16 @@
                 href="https://jaritaes99.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://jaritaes99.github.io/es/es/contact/</loc>
+    <loc>https://jaritaes99.github.io/es/contacto/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jaritaes99.github.io/es/contacto/"
+                href="https://jaritaes99.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jaritaes99.github.io/es/es/contact/"
+                href="https://jaritaes99.github.io/es/contacto/"
                 />
   </url><url>
     <loc>https://jaritaes99.github.io/es/series/</loc>
