@@ -122,22 +122,22 @@ contentDir = 'content/en'
 [[languages.en.menu.main]]
 name = "About Me"
 weight = 1
-url = "en/about/"
+url = "/about/"
 
 [[languages.en.menu.main]]
 name = "Research"
 weight = 2
-url = "en/research/"
+url = "/research/"
 
 [[languages.en.menu.main]]
 name = "Resumé"
 weight = 3   
-url = "en/resume/"
+url = "/resume/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 4
-url = "en/contact/"
+url = "/contact/"
 
 [languages.es]
 languageName = ":es:"
