@@ -139,6 +139,11 @@ name = "Contact me"
 weight = 4
 url = "/contact/"
 
+[[languages.en.menu.main]]
+name = "References"
+weight = 5  
+url = "/references/" 
+
 [languages.es]
 languageName = ":es:"
 title = "José Arita Escalante"
@@ -169,3 +174,8 @@ url = "es/curriculum/"
 name = "Contacto"
 weight = 4
 url = "es/contacto/"
+
+[[languages.es.menu.main]]
+name = "Referencias"
+weight = 5
+url = "es/referencias/"
