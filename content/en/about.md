@@ -19,4 +19,4 @@ Outreach is very important to me, and I am always trying to become involved in i
 astronomical siences in Central America and the Caribbean, I felt a need to join and become involved with it. I moved to the United States because I knew it was going to be hard to secure a future as a theoretical physicist 
 in Honduras due to the lack of opportunities in third world countries. I want to help students who are in similar situations that I found myself in back then but that might not have the same opportunities I had. 
 
-In this website, you will find useful information such as my LinkedIn, GitHub, resumé, contact information, current and past research projects, and a quick blog about what I have been up to.
+In this website, you will find useful information such as my LinkedIn, GitHub, resumé, contact information, along with current and past research projects.
