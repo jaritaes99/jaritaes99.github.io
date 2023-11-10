@@ -3,6 +3,8 @@ title = "Research"
 slug = "research"
 +++
 
+I am currently a first year Master's in AstroPhysics student in the 
+
 Currently, I am working optimizing the resolution of hydrodynamic (HD) simulations used by the MCRaT (Monte Carlo Radiation Transfer) code to predict the electromagnetic signature of simulated Gamma Ray Bursts (GRBs). MCRaT injects photons into 
 the HD simulation and conduces scattering of the photons to then measure the electromagnetic signature of the simulated GRB. I have been working on finding the effects that lowering both the spatial and temporal resolution of the HD 
 simulation for the sake of reducing computational time and resource allocation has on the outcome of the simulation. I have been preparing the results we have collected so far to prepare an abstract for the AAS HEAD meeting in March, which I will be presenting in. 
