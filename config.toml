@@ -110,6 +110,12 @@ weight = 1
 url = "https://github.com/jaritaes99/"
 
 [[params.social]]
+name = "ORCiD"
+icon = "fa fa-2x fa-orcid"
+weight = 2
+url = "https://orcid.org/0009-0001-9356-5400"
+
+[[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
