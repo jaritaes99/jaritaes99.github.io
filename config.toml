@@ -16,9 +16,9 @@ author = "Jose Arita-Escalante"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Jose Arita-Escalante's personal website"
 keywords = "research,resumé,personal"
-info = ["Research Assistant at NASA GSFC", "Aspiring Theoretical Physicist"]
+info = ["Master's Student at Fisk-Vanderbilt Master's-to-PhD Bridge Program", "Theoretical Physicist"]
 avatarURL = "images/portrait.jpeg"
-#gravatar = "escalantejra@vcu.edu"
+#gravatar = "jose.r.arita-escalante@vanderbilt.edu"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
