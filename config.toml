@@ -157,7 +157,7 @@ contentDir = 'content/es'
 
 [languages.es.params]
 author = "José Arita Escalante"
-info = ["Asistente de Investigación en NASA GSFC", "Futuro Físico Teórico"]
+info = ["Estudiante de Maestría en Fisk-Vanderbilt Master's-to-PhD Bridge Program", "Físico Teórico"]
 description = "Sitio personal de José Arita Escalante"
 keywords = "blog,desarrollador,personal"
 
